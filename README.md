@@ -7,7 +7,7 @@
 
 ## Screenshot
 
-![adhjgc](https://github.com/youssefbarj/adhjgc/raw/main/screenshot.png)
+![adhjgc](https://raw.githubusercontent.com/youssefbarj/adhjgc/main/screenshot.png)
 
 ## What this slide does
 
